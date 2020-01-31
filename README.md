@@ -6,8 +6,15 @@ about how to use stagesepx in production
 
 ## 目录
 
+### 基础
+
 - [手动测试APP启动速度](./manual)
 - [自动测试APP启动速度](./auto)
+- ...
+
+### 进阶
+
+- [动态场景的判定与区分](./dynamic)
 - ...
 
 ## Q&A
