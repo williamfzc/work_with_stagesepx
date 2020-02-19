@@ -47,11 +47,13 @@
 
 #### 安装
 
-该方案需要 keras 与 tensorflow 的支持，标准安装时不会自动安装，你需要：
+使用 KerasClassifier 需要 tensorflow 的支持。
 
 ```bash
-pip install stagesepx[keras]
+pip install tensorflow
 ```
+
+其他方式请自行官网查看。
 
 #### 脚本
 
@@ -96,3 +98,7 @@ videos 目录下有 6 个视频，均以 douyin 开头。
 你可以发现，似乎整个流程跟以前的版本没有差别。实际上是的，两种 classifier 在 api 与表现上并不会有太大差别。
 
 动态情景下最大的问题是，每个阶段的表现可能是不相同的。以插屏广告为例，每次打开时插屏广告都不一样，此时我们需要扩大训练集，尽量让模型找到广告之间的共性，能够正确地将他们划分到同一类别。
+
+## 相关
+
+https://testerhome.com/topics/22215
