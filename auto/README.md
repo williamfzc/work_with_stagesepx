@@ -1,3 +1,11 @@
+# 注意
+
+这里的方法仅作为如何训练、应用模型的指引，你可以通过这篇文章知悉使用流程。
+
+但在真正落地时请使用 [keras方案](https://github.com/williamfzc/work_with_stagesepx/tree/master/dynamic) 来替代。SVM在很多场景下（例如不同分辨率视频）是无法满足需求的。
+
+---
+
 # 自动测试APP启动速度
 
 ## 目的
