@@ -19,4 +19,5 @@ about how to use stagesepx in production
 
 ## Q&A
 
-错误与建议请 issue 告知，欢迎 PR ：）
+- 遇到问题请优先看一下 [主仓库的 issue](https://github.com/williamfzc/stagesepx/issues) 有没有相关的解答；
+- 错误与建议请 issue 告知，欢迎 PR ：）
