@@ -1,0 +1,7 @@
+{
+  "output": ".",
+  "video": {
+    "path": "../videos/short.mp4",
+    "fps": 30
+  }
+}

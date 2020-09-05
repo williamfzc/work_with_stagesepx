@@ -15,6 +15,7 @@ about how to use stagesepx in production
 ### 进阶
 
 - [动态场景的判定与区分](./dynamic)
+- [无需代码的配置化运行（0.15.0）](./run_with_config)
 - [一个真实的落地例子与详细教程](https://github.com/150109514/stagesepx_with_keras)
 - ...
 

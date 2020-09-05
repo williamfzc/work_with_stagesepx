@@ -1,0 +1,28 @@
+{
+  "output": ".",
+  "video": {
+    "path": "../videos/short.mp4",
+    "fps": 30
+  },
+  "classifier": {
+    "classifier_type": "keras",
+    "model": "./model.h5",
+    "target_size": [
+      600,
+      800
+    ]
+  },
+  "calc": {
+    "output": "./output.json",
+    "operators": [
+      {
+        "name": "cost between 1 and 3",
+        "calc_type": "between",
+        "args": {
+          "from_stage": "1",
+          "to_stage": "3"
+        }
+      }
+    ]
+  }
+}

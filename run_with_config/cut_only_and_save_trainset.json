@@ -1,0 +1,10 @@
+{
+  "output": ".",
+  "video": {
+    "path": "../videos/short.mp4",
+    "fps": 30
+  },
+  "extras": {
+    "save_train_set": "./trainset"
+  }
+}
