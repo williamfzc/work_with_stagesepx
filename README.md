@@ -6,6 +6,10 @@ about how to use stagesepx in production
 
 ## 目录
 
+### all in one
+
+感谢 wsc106 同学编写的 [超级详细的文档](https://blog.csdn.net/wsc106/article/details/107351675)，看完基本可以解答大部分的问题，并对这个项目的运作方式有所理解。
+
 ### 基础
 
 - [手动测试APP启动速度](./manual)
